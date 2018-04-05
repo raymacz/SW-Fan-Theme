@@ -1,0 +1,18 @@
+f/MyTutorials/MyExercise/Raymacz.Custom.WP.Plugins
+
+PLugins active after sql backup
+advanced custom fields
+contact form 7
+custom post type ui
+php code widget
+posttypes
+query monitor
+regenerate thumbnails
+show current template
+wp mail smtp
+
+
+b2w child active
+
+
+F:/MyTutorials/MyExercise/Bootstrap.to.wordpress/wp-content/themes/wp-content_mqassist.tk/themes
